@@ -1,10 +1,14 @@
 _repo: Historic-Towns-of-New-England_49067
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Powell, Lyman Pierson
       gutenberg_agent_id: '41127'
       url: http://www.gutenberg.org/2009/agents/41127
+covers:
+- cover_type: archival
+  image_path: 49067-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Various
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49067#Historic-Towns-of-New-England
 gutenberg_issued: '2015-05-28'
 gutenberg_type: Text
 identifiers:
